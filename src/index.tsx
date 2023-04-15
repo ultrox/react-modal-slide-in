@@ -18,6 +18,7 @@ function App() {
 
   return (
     <div className="App">
+      <img src="/qr.svg" />
       <button className="Button CenterAlign" onClick={toggleModal}>
         Challenge
       </button>
